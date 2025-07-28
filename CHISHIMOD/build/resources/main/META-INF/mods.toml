@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="chishimod"
+version="1.0.0"
+displayName="ChiSHi-MOD"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://wudarensheng.github.io"
+authors="Wudarensheng, MCreator"
+description='''
+zidan
+'''
+
+[[dependencies.chishimod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,43 @@
+{
+  "mod_elements": [
+    {
+      "name": "FearEnchantment",
+      "type": "enchantment",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fear_enchantment"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "enchantment.chishimod.fear_enchantment": "光州"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chishimod",
+    "modName": "ChiSHi-MOD",
+    "version": "1.0.0",
+    "description": "zidan",
+    "author": "Wudarensheng, MCreator",
+    "websiteURL": "https://wudarensheng.github.io",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.chishimod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
